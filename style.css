@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+body{
+    background: #000;
+    font-family: 'Roboto', sans-serif;
+}
+.button{
+    /* padding: 15px;
+    width: 58px;
+    margin:0 3px;
+    border: 2px solid #000;
+    border-radius: 9px;
+    cursor: pointer; */
+
+    /* iphone-css */
+    padding: 15px;
+    width: 55px;
+    height: 55px;
+    margin: 0 3px;
+    border: 2px solid #000;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+}
+.row{
+    margin: 8px 0px;
+}
+.padding-input{
+    padding: 10px 15px;
+}
+.text{
+    width: 231px;
+    border: 2px solid #000;
+    border-radius: 9px;
+}
+
+.new-btn{
+    width: 118px !important;
+    border-radius: 50px !important;
+}
+/* .new-btn2{
+    width: 55px;
+    height: 55px;
+    margin: 0 3px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 24px !important;
+    font-weight: bold !important;
+} */
+input{
+    background: #000;
+    outline: none;
+    color: #fff;
+}

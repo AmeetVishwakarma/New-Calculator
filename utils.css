@@ -1,0 +1,40 @@
+.text-center{
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
+
+.bg-red{
+    background: red;
+}
+
+.mx-auto{
+    margin: auto;
+}
+.m-w-88{
+    max-width: 88vw;
+}
+
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+.grey-bg{
+    background: #a5a5a5;
+}
+.dark-grey-bg{
+    background: #333333;
+}
+.orange-bg{
+    background: #ff9f0a;
+}
+.ft-white{
+    color: white;
+}
+
